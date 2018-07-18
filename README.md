@@ -1,3 +1,3 @@
 # hello-world
-Simply HelloWorld app
+Simply Hello World
  Hello Everyone :)
